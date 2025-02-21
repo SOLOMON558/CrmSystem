@@ -9,5 +9,4 @@ Currently, two official plugins are available:
 
 
 
-Тьфу тьфу
-dfsfsdfsdfdsfdsfdsfsdfsfdsfs
+Тест контест
